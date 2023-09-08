@@ -1,0 +1,44 @@
+.body {
+  background-color: aqua;
+  color: crimson;
+}
+
+.container-fluid {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-bottom: 1%;
+  width: 70%;
+  background-color: lightseagreen;
+  color: rgb(4, 60, 78);
+}
+
+.row {
+  text-align: center;
+  justify-content: center;
+  color: navy;
+}
+
+h1 {
+  color: azure;
+}
+
+.card-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.form-select {
+  margin-bottom: 5%;
+}
+
+#monedaConvertida {
+  margin-top: 5%;
+  font-size: x-large;
+  font-weight: bold;
+}
+
+.grafico {
+  margin-top: 5%;
+}
